@@ -12,7 +12,7 @@ Inicializando repositorio en local (Working dir)
 
 $git add nombre-archivo
 $git add .
-Seguimiento de archivos (Index)(*)
+Seguimiento de archivos (Index)
 
 $git status
 Visualizar estado de archivos
